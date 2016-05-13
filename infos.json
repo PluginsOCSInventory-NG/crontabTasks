@@ -1,0 +1,10 @@
+{
+  "displayName" : "Contrab tasks",
+  "author" : ["Guillaume PROTET", "Valentin DEVILLE"],
+  "contributor" : [],
+  "supportedAgent" : ["Unix"],
+  "description" : {
+    "fr" : "Remonte les crontab",
+    "en" : "Retrieve crontab tasks"
+  }
+}
