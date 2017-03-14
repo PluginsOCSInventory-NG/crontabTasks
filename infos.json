@@ -1,5 +1,5 @@
 {
-  "displayName" : "Contrab Tasks",
+  "displayName" : "Crontab Tasks",
   "author" : ["Guillaume PROTET", "Valentin DEVILLE"],
   "contributor" : [],
   "supportedAgent" : ["Unix"],
