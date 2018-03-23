@@ -1,7 +1,7 @@
 {
   "displayName" : "Crontab Tasks",
   "author" : ["Guillaume PROTET", "Valentin DEVILLE"],
-  "contributor" : [],
+  "contributor" : ["Frank BOURDEAU"],
   "supportedAgent" : ["Unix"],
   "description" : {
     "fr" : "Remonte les crontab",

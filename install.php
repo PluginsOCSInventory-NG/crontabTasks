@@ -2,8 +2,8 @@
 function plugin_version_crontabTasks()
 {
 return array('name' => 'crontabTasks',
-'version' => '1.0',
-'author'=> 'Benoit SARDA, Valentin DEVILLE',
+'version' => '1.1',
+'author'=> 'Guillaume PROTET, Valentin DEVILLE',
 'license' => 'GPLv2',
 'verMinOcs' => '2.2');
 }
