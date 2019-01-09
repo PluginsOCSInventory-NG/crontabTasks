@@ -3,7 +3,7 @@
 /**
  * This function is called on installation and is used to create database schema for the plugin
  */
-function extension_install_crontabTasks()
+function extension_install_crontabtasks()
 {
     $commonObject = new ExtensionCommon;
 
@@ -24,7 +24,7 @@ function extension_install_crontabTasks()
 /**
  * This function is called on removal and is used to destroy database schema for the plugin
  */
-function extension_delete_crontabTasks()
+function extension_delete_crontabtasks()
 {
     $commonObject = new ExtensionCommon;
     $commonObject -> sqlQuery("DROP TABLE `crontabtasks`");
@@ -33,7 +33,7 @@ function extension_delete_crontabTasks()
 /**
  * This function is called on plugin upgrade
  */
-function extension_upgrade_crontabTasks()
+function extension_upgrade_crontabtasks()
 {
 
 }
