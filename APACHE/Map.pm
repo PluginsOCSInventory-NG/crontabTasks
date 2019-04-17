@@ -1,9 +1,9 @@
 
- 
-package Apache::Ocsinventory::Plugins::CrontabTasks::Map;
- 
+
+package Apache::Ocsinventory::Plugins::Crontabtasks::Map;
+
 use strict;
- 
+
 use Apache::Ocsinventory::Map;
 
 $DATA_MAP{crontabtasks} = {
@@ -25,4 +25,3 @@ $DATA_MAP{crontabtasks} = {
          }
 };
 1;
-
