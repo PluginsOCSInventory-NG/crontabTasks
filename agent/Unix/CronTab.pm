@@ -114,7 +114,7 @@ sub wanted {
             $dayofmonth = $_->{_dom};
             $dayofweek = $_->{_dow};
             $month = $_->{_month};
-            push @{$common->{xmltags}->{CRONTAB}},
+            push @{$common->{xmltags}->{CRONTABTASKS}},
             {
                MINUTE => [$minute],
                HOUR => [$hour],
